@@ -1,4 +1,4 @@
-# Meu Primeiro Projeto
+# meu-primeiro-projeto-claude01
 
 Repositório inicial para aprender a criar aplicações com o [Claude Code](https://claude.com/claude-code).
 
